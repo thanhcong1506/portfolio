@@ -5,18 +5,18 @@ import img4 from "../assets/img4.png";
 
 export const data = [
   {
-    id: 1,
-    name: "Ha Tinh province's tourist complex using HTML,CSS",
-    image: img1,
-    github: "https://github.com/thanhcong1506/firstWebsiteHTML-CSS",
-    live: "https://hatinhtour.onrender.com/",
+    id: 5,
+    name: "Ecommerce Web App using React JS, Node JS",
+    image: img4,
+    github: "https://github.com/thanhcong1506/nodejs/tree/asm3-ecommerce",
+    live: "https://thanhcongecommerce.onrender.com/",
   },
   {
-    id: 2,
-    name: "A pet shop using HTML,CSS,Javascript",
-    image: img2,
-    github: "https://github.com/thanhcong1506/pet-shop-app",
-    live: "https://petshop-ws4a.onrender.com/index.html",
+    id: 4,
+    name: "Ecommerce Web App using React JS, Node JS",
+    image: img4,
+    github: "https://github.com/thanhcong1506/nodejs/tree/asm3-ecommerce",
+    live: "https://thanhcongecommerce.onrender.com/",
   },
   {
     id: 3,
@@ -26,10 +26,18 @@ export const data = [
     live: "https://asm2-rjs.netlify.app/",
   },
   {
-    id: 4,
-    name: "Ecommerce Web App using React JS, Node JS",
-    image: img4,
-    github: "https://github.com/thanhcong1506/nodejs/tree/asm3-ecommerce",
-    live: "https://thanhcongecommerce.onrender.com/",
+    id: 2,
+    name: "A pet shop using HTML,CSS,Javascript",
+    image: img2,
+    github: "https://github.com/thanhcong1506/pet-shop-app",
+    live: "https://petshop-ws4a.onrender.com/index.html",
+  },
+
+  {
+    id: 1,
+    name: "Ha Tinh province's tourist complex using HTML,CSS",
+    image: img1,
+    github: "https://github.com/thanhcong1506/firstWebsiteHTML-CSS",
+    live: "https://hatinhtour.onrender.com/",
   },
 ];
