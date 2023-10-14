@@ -2,21 +2,22 @@ import img1 from "../assets/img1.png";
 import img2 from "../assets/img2.png";
 import img3 from "../assets/img3.png";
 import img4 from "../assets/img4.png";
+import img5 from "../assets/img5.png";
 
 export const data = [
   {
     id: 5,
-    name: "Ecommerce Web App using React JS, Node JS",
-    image: img4,
-    github: "https://github.com/thanhcong1506/nodejs/tree/asm3-ecommerce",
-    live: "https://thanhcongecommerce.onrender.com/",
+    name: "Game Intro Web App using Next.js, Typescript",
+    image: img5,
+    github: "https://github.com/thanhcong1506/kinect-porto",
+    live: "https://kinect-porto.vercel.app",
   },
   {
     id: 4,
     name: "Ecommerce Web App using React JS, Node JS",
     image: img4,
     github: "https://github.com/thanhcong1506/nodejs/tree/asm3-ecommerce",
-    live: "https://thanhcongecommerce.onrender.com/",
+    live: "https://thanhcongecommerce.onrender.com",
   },
   {
     id: 3,
